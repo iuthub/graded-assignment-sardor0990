@@ -118,7 +118,9 @@
             <div id="myDIV" class="header">
               <h2>My To Do List</h2>
               <input type="text" name="newTask" placeholder="Title...">
+              <form>
               <button type="submit" class="addBtn">Add</button>
+             </form>
             </div>
         </form>
         <ul id="myUL">
